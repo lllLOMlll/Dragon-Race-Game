@@ -1,0 +1,17 @@
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\bin\Debug\net6.0-windows\Lab2_Horse_Race.exe
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\bin\Debug\net6.0-windows\Lab2_Horse_Race.deps.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\bin\Debug\net6.0-windows\Lab2_Horse_Race.runtimeconfig.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\bin\Debug\net6.0-windows\Lab2_Horse_Race.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\bin\Debug\net6.0-windows\Lab2_Horse_Race.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.Form1.resources
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.vbproj.GenerateResource.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.AssemblyInfo.vb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.vbproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\refint\Lab2_Horse_Race.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.genruntimeconfig.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\ref\Lab2_Horse_Race.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab2\Lab2_Horse_Race\obj\Debug\net6.0-windows\Lab2_Horse_Race.Resources.resources
