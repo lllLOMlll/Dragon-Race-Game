@@ -183,11 +183,11 @@ Public Class Form1
         counter += 50
 
         ' Random advancement for each dragon.
-        UpdateDragonsProgressBar(rand.Next(0, 500), ProgressBar_Dragon1, "Dragon 1")
-        UpdateDragonsProgressBar(rand.Next(0, 500), ProgressBar_Dragon2, "Dragon 2")
-        UpdateDragonsProgressBar(rand.Next(0, 500), ProgressBar_Dragon3, "Dragon 3")
-        UpdateDragonsProgressBar(rand.Next(0, 500), ProgressBar_Dragon4, "Dragon 4")
-        UpdateDragonsProgressBar(rand.Next(0, 800), ProgressBar_Dragon5, "Dragon 5")
+        UpdateDragonsProgressBar(rand.Next(0, 50), ProgressBar_Dragon1, "Dragon 1")
+        UpdateDragonsProgressBar(rand.Next(0, 50), ProgressBar_Dragon2, "Dragon 2")
+        UpdateDragonsProgressBar(rand.Next(0, 50), ProgressBar_Dragon3, "Dragon 3")
+        UpdateDragonsProgressBar(rand.Next(0, 50), ProgressBar_Dragon4, "Dragon 4")
+        UpdateDragonsProgressBar(rand.Next(0, 50), ProgressBar_Dragon5, "Dragon 5")
 
         If dragonFinishOrder.Count = 5 Then
             Timer_Dragon_Race.Stop()
@@ -249,10 +249,15 @@ Public Class Form1
 
     Private Sub ResetLabelStandingDragon()
         Label_Standing_Dragon1.Text = "?"
+        Label_Standing_Dragon1.ForeColor = Color.White
         Label_Standing_Dragon2.Text = "?"
+        Label_Standing_Dragon2.ForeColor = Color.White
         Label_Standing_Dragon3.Text = "?"
+        Label_Standing_Dragon3.ForeColor = Color.White
         Label_Standing_Dragon4.Text = "?"
+        Label_Standing_Dragon4.ForeColor = Color.White
         Label_Standing_Dragon5.Text = "?"
+        Label_Standing_Dragon5.ForeColor = Color.White
     End Sub
 
     Private Sub ResetMoneyBoxes()
